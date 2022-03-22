@@ -15,9 +15,22 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.2.11.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.2.11.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:5.2.11.RELEASE" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.13.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.13.2" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.13.2" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.22" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.16" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.16" />
         </element>
       </element>
       <element id="javaee-facet-resources" facet="spring_test_01/web/Web" />
+      <element id="javaee-facet-resources" facet="SpringP/web/웹" />
     </root>
   </artifact>
 </component>
